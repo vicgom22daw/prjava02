@@ -1,23 +1,11 @@
-Instrucciones 
-1 - 
-  git branch branca00
-  git checkout branca00
-  git status
-5 -
-  git checkout main
-  git status
-7 -
-  git checkout branca00
-  pluma Prjava02.java
-10b -
-  git checkout main
-  git merge branca00
-12 -
-  git push
-14a -
-  git push --set-upstream origin branca01
-Respuesta
-6 - No, porque los cambios han sido en la rama branca00 por eso no se pueden ver.
-7 - Si, porque los cambios han sido en esta rama por eso los cambios se mantienen.
-12c - Porque es la rama donde se ha hecho el push.
-14c - A 1.
+1. git branch branca00 git checkout branca00 git status
+5. git checkout main git status
+7. git checkout branca00 pluma Prjava02.java
+10b. git checkout main git merge branca00
+12. git push
+14a. git push --set-upstream origin branca01
+Escrito
+6. No, porque los cambios han sido en la rama branca00 por eso no se pueden ver.
+7. Si, porque los cambios han sido en esta rama por eso los cambios se mantienen.
+12c. Porque es la rama donde se ha hecho el push.
+14c. A 1.
